@@ -1,0 +1,56 @@
+{
+  "aboutText": "I am a passionate artist dedicated to exploring the boundaries of color, form, and emotion through contemporary painting. My work reflects a deep connection to visual storytelling, where each brushstroke contributes to a larger narrative. With years of experience in various mediums, I continue to evolve my artistic practice, seeking to engage viewers in meaningful visual dialogues.",
+  "contactEmail": "your.email@example.com",
+  "instagramHandle": "@yoursarthandle",
+  "instagramUrl": "https://instagram.com/yoursarthandle",
+  "paintings": [
+    {
+      "title": "Sunset Reflections",
+      "description": "A vibrant exploration of color and light",
+      "image": "https://via.placeholder.com/400x500?text=Sunset+Reflections",
+      "year": "2024",
+      "medium": "Acrylic on canvas",
+      "dimensions": "36\" × 48\""
+    },
+    {
+      "title": "Urban Landscape",
+      "description": "Contemporary interpretation of city life",
+      "image": "https://via.placeholder.com/400x500?text=Urban+Landscape",
+      "year": "2024",
+      "medium": "Oil on canvas",
+      "dimensions": "30\" × 40\""
+    },
+    {
+      "title": "Abstract Dreams",
+      "description": "Exploring the subconscious through abstraction",
+      "image": "https://via.placeholder.com/400x500?text=Abstract+Dreams",
+      "year": "2023",
+      "medium": "Mixed media",
+      "dimensions": "24\" × 36\""
+    },
+    {
+      "title": "Natural Harmony",
+      "description": "Celebrating the beauty of nature",
+      "image": "https://via.placeholder.com/400x500?text=Natural+Harmony",
+      "year": "2023",
+      "medium": "Watercolor",
+      "dimensions": "18\" × 24\""
+    },
+    {
+      "title": "Ethereal Presence",
+      "description": "A study in light and shadow",
+      "image": "https://via.placeholder.com/400x500?text=Ethereal+Presence",
+      "year": "2023",
+      "medium": "Acrylic on canvas",
+      "dimensions": "40\" × 50\""
+    },
+    {
+      "title": "Chromatic Journey",
+      "description": "An exploration of color relationships",
+      "image": "https://via.placeholder.com/400x500?text=Chromatic+Journey",
+      "year": "2024",
+      "medium": "Oil on canvas",
+      "dimensions": "32\" × 42\""
+    }
+  ]
+}
