@@ -89,7 +89,6 @@ nav a:hover {
     z-index: 2;
     text-align: center;
     color: white;
-    background: transparent;
     padding: 40px 50px;
     border-radius: 10px;
 }
