@@ -1,55 +1,55 @@
 {
   "aboutText": "I am a passionate artist dedicated to exploring the boundaries of color, form, and emotion through contemporary painting. My work reflects a deep connection to visual storytelling, where each brushstroke contributes to a larger narrative. With years of experience in various mediums, I continue to evolve my artistic practice, seeking to engage viewers in meaningful visual dialogues.",
-  "contactEmail": "your.email@example.com",
+  "contactEmail": "hillelbazak@gmail.com",
   "instagramHandle": "@yoursarthandle",
-  "instagramUrl": "https://instagram.com/yoursarthandle",
+  "instagramUrl": "https://www.instagram.com/hillel_bazak?stkn=MWxxMmh3bDh2d3JzaQ%3D%3D&utm_source=qr",
   "paintings": [
     {
-      "title": "the lost child",
-      "description": "A vibrant exploration of color and light",
+      "title": "The lost son",
+      "description": "Authorial depicition  of family and myths",
       "image": "images/IMG_9878.jpeg",
-      "year": "2024",
+      "year": "2025",
       "medium": "charcole on canvas",
       "dimensions": "60cm\" × 100cm\""
     },
     {
-      "title": "Urban Landscape",
-      "description": "Contemporary interpretation of city life",
+      "title": "warrior",
+      "description": "A growing up tale unfolding",
       "image": "https://via.placeholder.com/400x500?text=Urban+Landscape",
-      "year": "2024",
+      "year": "2026",
       "medium": "Oil on canvas",
-      "dimensions": "30\" × 40\""
+      "dimensions": "100cm\ × 120cm\""
     },
     {
-      "title": "Abstract Dreams",
-      "description": "Exploring the subconscious through abstraction",
+      "title": "Moshe",
+      "description": "A caricaturist is looking for on a recent legend ",
       "image": "https://via.placeholder.com/400x500?text=Abstract+Dreams",
-      "year": "2023",
-      "medium": "Mixed media",
-      "dimensions": "24\" × 36\""
+      "year": "2025",
+      "medium": "oil on canvas",
+      "dimensions": "45cm\ × 100cm\"
     },
     {
-      "title": "Natural Harmony",
-      "description": "Celebrating the beauty of nature",
+      "title": "The polisher",
+      "description": "Like a diamond in the rough",
       "image": "https://via.placeholder.com/400x500?text=Natural+Harmony",
-      "year": "2023",
-      "medium": "Watercolor",
-      "dimensions": "18\" × 24\""
-    },
-    {
-      "title": "Ethereal Presence",
-      "description": "A study in light and shadow",
-      "image": "https://via.placeholder.com/400x500?text=Ethereal+Presence",
-      "year": "2023",
-      "medium": "Acrylic on canvas",
-      "dimensions": "40\" × 50\""
-    },
-    {
-      "title": "Chromatic Journey",
-      "description": "An exploration of color relationships",
-      "image": "https://via.placeholder.com/400x500?text=Chromatic+Journey",
       "year": "2024",
-      "medium": "Oil on canvas",
+      "medium": "pencil and ink on paper",
+      "dimensions": "30\ × 42\"
+    },
+    {
+      "title": "The gardener",
+      "description": "A selebration of plant and personality",
+      "image": "https://via.placeholder.com/400x500?text=Ethereal+Presence",
+      "year": "2025",
+      "medium": "pencil and ink on paper",
+      "dimensions": "30\ × 42\"
+    },
+    {
+      "title": "The plumber",
+      "description": "Embrace yourself for some explosive satisfaction",
+      "image": "https://via.placeholder.com/400x500?text=Chromatic+Journey",
+      "year": "2026",
+      "medium": "pencil and oil on paper",
       "dimensions": "32\" × 42\""
     }
   ]
