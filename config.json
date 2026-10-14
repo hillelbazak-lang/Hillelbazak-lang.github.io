@@ -52,29 +52,3 @@
       "medium": "pencil and oil on paper",
       "dimensions": "32\" × 42\""
     },
-    {
-      "title": "Untitled I",
-      "description": "Exploration of form and space",
-      "image": "images/IMG_2233.jpeg",
-      "year": "2024",
-      "medium": "Mixed media",
-      "dimensions": "50cm × 50cm"
-    },
-    {
-      "title": "Untitled II",
-      "description": "A study in emotion and tone",
-      "image": "images/IMG_2244.jpeg",
-      "year": "2025",
-      "medium": "Acrylic on canvas",
-      "dimensions": "40cm × 60cm"
-    },
-    {
-      "title": "Untitled III",
-      "description": "Color and rhythm in motion",
-      "image": "images/IMG_2255.jpeg",
-      "year": "2026",
-      "medium": "Oil on canvas",
-      "dimensions": "55cm × 55cm"
-    }
-  ]
-}
